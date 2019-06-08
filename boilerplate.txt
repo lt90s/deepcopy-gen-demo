@@ -1,0 +1,3 @@
+/*
+  this is the header that should appear in generated files
+*/
